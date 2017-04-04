@@ -1,0 +1,47 @@
+###########################################
+# Syntax Coloring Map For Mitsubishi_PKFY-P
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+HvacMode	KEYWORD1
+HvacFanMode	KEYWORD1
+HvacVanneMode	KEYWORD1
+
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+sendMitsubishi		KEYWORD2
+
+
+###########################################
+# Instances (KEYWORD2)
+###########################################
+
+IRsend	KEYWORD2
+
+
+###########################################
+# Constants (LITERAL1)
+###########################################
+
+HVAC_COLD	LITERAL1
+HVAC_DRY	LITERAL1
+HVAC_AUTO	LITERAL1
+HVAC_FAN	LITERAL1
+HVAC_HOT	LITERAL1
+
+FAN_SPEED_1	LITERAL1
+FAN_SPEED_2	LITERAL1
+FAN_SPEED_3	LITERAL1
+FAN_SPEED_4	LITERAL1
+
+VANNE_H1	LITERAL1
+VANNE_H2	LITERAL1
+VANNE_H3	LITERAL1
+VANNE_H4	LITERAL1
+VANNE_AUTO_MOVE	LITERAL1
